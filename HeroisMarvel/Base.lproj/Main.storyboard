@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="oJr-sf-MgO">
     <device id="retina5_5" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
@@ -154,9 +154,9 @@
                                 </tableViewCellContentView>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
-                                    <outlet property="ivThumb" destination="Aki-LY-asC" id="CoI-7D-NCS"/>
-                                    <outlet property="lbDescription" destination="L3s-sd-nOJ" id="zNu-np-iBe"/>
-                                    <outlet property="lbName" destination="sEf-mg-oq0" id="vSu-tI-i5s"/>
+                                    <outlet property="ivThumb" destination="Aki-LY-asC" id="elj-l9-Fqs"/>
+                                    <outlet property="lbDescription" destination="L3s-sd-nOJ" id="McT-qB-Jol"/>
+                                    <outlet property="lbName" destination="sEf-mg-oq0" id="Tbu-1P-nl8"/>
                                     <segue destination="wbg-dF-UHh" kind="show" id="1JN-Yt-CJs"/>
                                 </connections>
                             </tableViewCell>
